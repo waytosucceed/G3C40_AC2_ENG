@@ -1,0 +1,242 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Which punctuation mark is used to end a complete thought?",
+    "options": [
+      ",",
+      "?",
+      "!",
+      "."
+    ],
+    "correct": 3,
+    "explanation": "The full stop (.) is used to end a sentence. It tells us that the thought is complete and it's time to stop."
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Which sentence uses an exclamation mark?",
+    "options": [
+      "Do you like ice cream?",
+      "I love ice cream!",
+      "I love ice cream,",
+      "I love ice cream."
+    ],
+    "correct": 1,
+    "explanation": "We use an exclamation mark (!) to show strong feelings or excitement. 'I love ice cream!' shows enthusiasm about ice cream."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "Which punctuation mark do we use to ask a question?",
+    "options": [
+      ".",
+      ",",
+      "!",
+      "?"
+    ],
+    "correct": 3,
+    "explanation": "The question mark (?) is used at the end of a sentence that asks a question. It shows that we're seeking information or an answer."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Which sentence is punctuated correctly?",
+    "options": [
+      "We went to the park",
+      "We went to the park,",
+      "We went to the park.",
+      "We went to the park!"
+    ],
+    "correct": 2,
+    "explanation": "This is a simple statement, so it should end with a full stop (.). It's not a question or an exclamation, and it doesn't need a comma."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Where does the comma go in this sentence? 'I need a pen pencil and paper.'",
+    "options": [
+      "I need a pen, pencil and paper.",
+      "I need a pen pencil, and paper.",
+      "I need a pen, pencil, and paper.",
+      "I need a pen pencil and, paper."
+    ],
+    "correct": 2,
+    "explanation": "In a list of three or more items, we put commas between each item. A comma is used to separate different items in a sentence."
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Fill in the blank:<br> The cat ___ dog, and mouse are all pets.",
+    "options": [
+      ",",
+      ".",
+      "!",
+      "?"
+    ],
+    "correct": 0,
+    "explanation": "We use a comma (,) to separate items in a list. Here, we're listing different pets: cat, dog, and mouse."
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Fill in the blank:<br> May I have a cookie ___",
+    "options": [
+      ".",
+      ",",
+      "!",
+      "?"
+    ],
+    "correct": 3,
+    "explanation": "This sentence is asking for permission, so it's a question. We end questions with a question mark (?)."
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Fill in the blank: <br>The dog barked ___",
+    "options": [
+      ".",
+      ",",
+      "!",
+      "?"
+    ],
+    "correct": 0,
+    "explanation": "This is a simple statement that doesn't show strong emotion or ask a question. It should end with a full stop (.)."
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Fill in the blank: <br>The colours of the rainbow are red ___ orange, yellow, green, blue, indigo, and violet.",
+    "options": [
+      ".",
+      ",",
+      "!",
+      "?"
+    ],
+    "correct": 1,
+    "explanation": "In a list, we use commas to separate items. Here, we need a comma after 'red' to continue the list of colours."
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "Fill in the blank: <br>She bought apples ___ oranges ___ and bananas.",
+    "options": [
+      ". .",
+      ", ,",
+      "! ,",
+      "? !"
+    ],
+    "correct": 1,
+    "explanation": "In a list, we use commas to separate items. We need a comma after 'apples' and another after 'oranges' to properly separate the fruits in this list."
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Which punctuation mark shows excitement?",
+    "options": [
+      ".",
+      ",",
+      "!",
+      "?"
+    ],
+    "correct": 2,
+    "explanation": "The exclamation mark (!) is used to show excitement, or strong emotions, or to emphasise something important."
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Which sentence uses a question mark correctly?",
+    "options": [
+      "He is my book?",
+      "Did is my book?",
+      "Here is my book?",
+      "Where is my book?"
+    ],
+    "correct": 3,
+    "explanation": "This sentence is asking about the location of a book, so it's a question. Questions should end with a question mark (?)."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Where does the question mark go in this sentence? 'Do you like pizza or pasta'",
+    "options": [
+      "After pasta",
+      "After pizza",
+      "After like",
+      "After you"
+    ],
+    "correct": 0,
+    "explanation": "This entire sentence is a question, so the question mark goes to the very end. It's asking about a preference between pizza and pasta."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Which sentence uses an exclamation mark correctly?",
+    "options": [
+      "Be careful.",
+      "Be careful,",
+      "Be careful!",
+      "Be careful?"
+    ],
+    "correct": 2,
+    "explanation": "'Be careful' is a warning or strong advice. Using an exclamation mark (!) emphasizes its importance and urgency."
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Which punctuation mark separates items in a list?",
+    "options": [
+      ".",
+      ",",
+      "!",
+      "?"
+    ],
+    "correct": 1,
+    "explanation": "We use commas (,) to separate items in a list. This helps us understand where one item ends and the next begins."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Choose the correct spelling:",
+    "options": [
+      "Puntuation",
+      "Puncteation",
+      "Punctuation",
+      "All the above are wrong"
+    ],
+    "correct": 2,
+    "explanation": "The correct spelling is 'P-U-N-C-T-U-A-T-I-O-N.' 'Punctuations' are the marks used for dividing writing into sentences and phrases."
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Fill in the blank: <br>Do you prefer cats or dogs ___",
+    "options": [
+      ".",
+      ",",
+      "!",
+      "?"
+    ],
+    "correct": 3,
+    "explanation": "This sentence is asking about a preference, so it's a question. We end questions with a question mark (?)."
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Which sentence is punctuated correctly?",
+    "options": [
+      "The dog barked loudly?",
+      "The dog barked loudly!",
+      "The dog barked loudly,",
+      "The dog barked loudly."
+    ],
+    "correct": 3,
+    "explanation": "This is a simple statement without strong emotion, so it should end with a full stop (.). It's not a question or an exclamation."
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Which punctuation mark do we use after 'Dear Mom' in a letter?",
+    "options": [
+      ".",
+      ",",
+      "!",
+      "?"
+    ],
+    "correct": 1,
+    "explanation": "In a letter, we use a comma after the greeting. So 'Dear Mom,' is correct."
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Choose the correct spelling:",
+    "options": [
+      "Exclamation",
+      "Exlamation",
+      "Exclemation",
+      "Ecxlamation"
+    ],
+    "correct": 0,
+    "explanation": "The correct spelling is 'E-X-C-L-A-M-A-T-I-O-N.' It is a punctuation mark usually used after an interjection to indicate strong feelings."
+  }
+]
